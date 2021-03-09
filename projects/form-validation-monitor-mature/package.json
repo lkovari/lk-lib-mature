@@ -1,0 +1,11 @@
+{
+  "name": "@lkovari/form-validation-monitor-mature",
+  "version": "0.0.2",
+  "license": "MIT",
+  "keywords": ["Angular", "Form", "Validation", "Monitor"],
+  "author": "Laszlo Kovari <laszlo.kovary@gmail.com> (https://lkovari.github.io/KLHome)",
+  "peerDependencies": {
+    "@angular/common": ">=7.0.0",
+    "@angular/core": ">=7.0.0"
+  }
+}
